@@ -22,6 +22,3 @@ Load game.rb
 ### Goals
 
 This was a project to practice Ruby, user interfaces, and input validations.
-
-The basic game and early rendering were written with Tristan Pendergrass - github.com/tristanpendergrass.
-
